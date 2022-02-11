@@ -17,7 +17,7 @@ Python 3 run
 
 
 
-![cp-example](screenshot.png)
+![cp run](sreenshot.jpg)
 
 
 
