@@ -120,7 +120,7 @@ def print_to_file(filename, unique_list_finished):
 
 def print_cow():
 
-    print(28 * " " + "[ Mebus | https://github.com/eaglesharad/]\r\n")
+    print(28 * " " + "[ Mebus | https://github.com/joker-king-sharad]\r\n")
 
 
 def version():
