@@ -11,8 +11,7 @@ Common password Generator
 Python 3 run
 
 
-[img]screenshot.png[/img]
-
+(screenshot.png)
 
 
 
